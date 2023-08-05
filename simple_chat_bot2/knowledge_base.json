@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello, how are you?"
+    },
+    {
+      "question": "I'm fine and you",
+      "answer": "Fine, Thank you"
+    }
+  ]
+}
